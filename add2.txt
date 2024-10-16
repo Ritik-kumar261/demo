@@ -1,1 +1,2 @@
 
+this is adding the txt from the working directory 
